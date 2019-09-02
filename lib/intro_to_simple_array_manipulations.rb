@@ -28,5 +28,5 @@ end
   
   def using_insert(array, element)
     array.insert(4)
-    array(4)
+    array[4]
   end
